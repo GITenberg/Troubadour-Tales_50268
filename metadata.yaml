@@ -1,0 +1,36 @@
+_repo: Troubadour-Tales_50268
+contributor:
+  illustrators:
+  - agent_name: Rosenmeyer, B.
+    gutenberg_agent_id: '45785'
+    url: http://www.gutenberg.org/2009/agents/45785
+  - agent_name: Parrish, Maxfield
+    birthdate: 1870
+    deathdate: 1966
+    gutenberg_agent_id: '9605'
+    url: http://www.gutenberg.org/2009/agents/9605
+    wikipedia: http://en.wikipedia.org/wiki/Maxfield_Parrish
+  - agent_name: Keep, Virgina
+    gutenberg_agent_id: '45784'
+    url: http://www.gutenberg.org/2009/agents/45784
+  - agent_name: Edwards, Edward, Captain R. N.
+    gutenberg_agent_id: '25570'
+    url: http://www.gutenberg.org/2009/agents/25570
+creator:
+  author:
+    agent_name: Stein, Evaleen
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '8639'
+    url: http://www.gutenberg.org/2009/agents/8639
+description: ''
+gutenberg_issued: '2015-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Troubadour Tales
+url: http://www.gutenberg.org/ebooks/50268
