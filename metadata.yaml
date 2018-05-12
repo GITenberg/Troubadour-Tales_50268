@@ -1,4 +1,5 @@
 _repo: Troubadour-Tales_50268
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Rosenmeyer, B.
@@ -16,6 +17,9 @@ contributor:
   - agent_name: Edwards, Edward, Captain R. N.
     gutenberg_agent_id: '25570'
     url: http://www.gutenberg.org/2009/agents/25570
+covers:
+- cover_type: archival
+  image_path: 50268-h/images/cover.jpg
 creator:
   author:
     agent_name: Stein, Evaleen
@@ -24,6 +28,8 @@ creator:
     gutenberg_agent_id: '8639'
     url: http://www.gutenberg.org/2009/agents/8639
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50268#Troubadour-Tales
 gutenberg_issued: '2015-10-21'
 gutenberg_type: Text
 identifiers:
